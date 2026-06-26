@@ -1,9 +1,9 @@
 header{
     background-color: black;
-    align-items: center;
-    justify-content: center;
-    display: flex;
     width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
 }
 body{
     background-color: dimgray;
@@ -12,12 +12,82 @@ body{
 }
 h1{
     color: white;
+
 }
-img{
-    align-items: center;
-    justify-content: center;
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+p{
+    color: blue;
+}
+.main{
     display: flex;
-    color: white;
-    height: 100px ;
-    width: 100px ;
+    flex-wrap: wrap;
+
+    justify-content: center;
 }
+.card{
+    background:rgba(255,255,255,.05);
+    backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:20px;
+    overflow:hidden;
+    transition:.4s;
+    height: 300px;
+    width: 400px ;
+}
+
+body{
+    padding-top: 120px;
+}
+.linha{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+    gap: 50px;
+}
+.card>img{
+    width: 100%;
+    border-top-radius: 10px;
+}
+h2{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 100px;
+    box-sizing: border-box;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu a:hover{
+    color: dodgerblue;
+}
+.logo-area{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 100px;
+}
+
+
