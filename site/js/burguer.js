@@ -1,4 +1,3 @@
-alert("JavaScript funcionando");
 
 function topo() {
     window.scrollTo({
