@@ -99,6 +99,14 @@ nav{
 span{
     color: white;
 }
+.botao{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    display: block;
+background-color: transparent;
+    color: white;
+}
 
 
 
