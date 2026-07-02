@@ -119,13 +119,16 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 Descreva brevemente a organização dos arquivos do seu projeto.
 
 site/
-│
-├── index.html
-├── css/
-│   └── EstilizarHamburgueria.css
-└── js/
-    └── burguer.js
-```
+|
+|-- index.html
+|
+|-- css/
+|   |
+|   |-- EstilizarHamburgueria.css
+|
+|-- js/
+    |
+    |-- burguer.js
 
 ## 💡 Observações
 
