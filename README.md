@@ -135,8 +135,7 @@ Utilize este espaço para comentar:
 GitHub Pages e fazer com que todas as imagens e estilos fossem carregados corretamente.
 
 
-- decisões de design: Escolhi fazer o site dessa maneira porque queria criar um cardápio simples e fácil de usar. A ideia foi mostrar fotos dos lanches e das bebidas
- para que o cliente pudesse visualizar as opções, decidir o que deseja e, em seguida, fazer o pedido ao garçom. Também procurei organizar os produtos de forma
+- decisões de design: Escolhi fazer o site dessa maneira porque queria criar um cardápio simples e fácil de usar. A ideia foi mostrar fotos dos lanches e das bebidas para que o cliente pudesse visualizar as opções, decidir o que deseja e, em seguida, fazer o pedido ao garçom. Também procurei organizar os produtos de forma
 clara para facilitar a navegação e tornar a experiência mais agradável. 
 
 - melhorias que podem ser feitas no futuro:No futuro, o site poderia ser expandido com mais funcionalidades, como um carrinho de compras,
