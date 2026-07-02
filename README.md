@@ -140,4 +140,4 @@ GitHub Pages e fazer com que todas as imagens e estilos fossem carregados corret
 clara para facilitar a navegação e tornar a experiência mais agradável. 
 
 - melhorias que podem ser feitas no futuro:No futuro, o site poderia ser expandido com mais funcionalidades, como um carrinho de compras,
--  envio dos pedidos diretamente para a cozinha e um sistema de acompanhamento dos pedidos em tempo real.
+  envio dos pedidos diretamente para a cozinha e um sistema de acompanhamento dos pedidos em tempo real.
