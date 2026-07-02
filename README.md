@@ -130,7 +130,7 @@ site/
 
 Utilize este espaço para comentar:
 
-- dificuldades encontradas:Durante o desenvolvimento do site, tive dificuldades para organizar o layout dos cards, ajustar o CSS para que tudo ficasse
+- dificuldades encontradas: Durante o desenvolvimento do site, tive dificuldades para organizar o layout dos cards, ajustar o CSS para que tudo ficasse
  alinhado e corrigir problemas com a ligação dos arquivos CSS e JavaScript. Também encontrei dificuldades para publicar o site no
 GitHub Pages e fazer com que todas as imagens e estilos fossem carregados corretamente.
 
@@ -138,5 +138,5 @@ GitHub Pages e fazer com que todas as imagens e estilos fossem carregados corret
 - decisões de design: Escolhi fazer o site dessa maneira porque queria criar um cardápio simples e fácil de usar. A ideia foi mostrar fotos dos lanches e das bebidas para que o cliente pudesse visualizar as opções, decidir o que deseja e, em seguida, fazer o pedido ao garçom. Também procurei organizar os produtos de forma
 clara para facilitar a navegação e tornar a experiência mais agradável. 
 
-- melhorias que podem ser feitas no futuro:No futuro, o site poderia ser expandido com mais funcionalidades, como um carrinho de compras,
+- melhorias que podem ser feitas no futuro:No futuro: o site poderia ser expandido com mais funcionalidades, como um carrinho de compras,
   envio dos pedidos diretamente para a cozinha e um sistema de acompanhamento dos pedidos em tempo real.
