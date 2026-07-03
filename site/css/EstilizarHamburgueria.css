@@ -34,7 +34,7 @@ p{
     border:3px solid rgba(255,255,255,.08);
     border-radius:20px;
     overflow:hidden;
-    transition:.4s;
+    
     height: 300px;
     width: 500px ;
 }
