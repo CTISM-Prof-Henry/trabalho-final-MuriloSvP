@@ -12,21 +12,10 @@ body{
 }
 h1{
     color: white;
-
 }
 .logo{
     width: 100px;
     height: 100px;
-}
-
-p{
-    color: blue;
-}
-.main{
-    display: flex;
-    flex-wrap: wrap;
-
-    justify-content: center;
 }
 .card{
     background:rgba(255,255,255,.05);
@@ -34,11 +23,9 @@ p{
     border:3px solid rgba(255,255,255,.08);
     border-radius:20px;
     overflow:hidden;
-    
     height: 300px;
     width: 500px ;
 }
-
 body{
     padding-top: 120px;
 }
@@ -53,9 +40,7 @@ body{
     width:100%;
     height:200px;
     object-fit:cover;
-
 }
-
 h2{
     color: #0D80BF;
     text-align: center;
@@ -76,7 +61,6 @@ nav{
     margin: 0;
     padding: 0;
 }
-
 .menu a{
     color: white;
     text-decoration: none;
@@ -92,7 +76,6 @@ nav{
     gap: 15px;
     margin-left: 100px;
 }
-
 span{
     color: white;
 }
@@ -110,9 +93,7 @@ background-color: transparent;
     margin: 3px;
     margin-left: 10px;
     margin-right: 10px;
-
 }
-
 .card p{
     font-size: 15px;
     color: #f8fcff;
@@ -120,7 +101,6 @@ background-color: transparent;
     margin-left: 10px;
     margin-right: 10px;
 }
-
 .card span{
     font-size: 22px;
     color: #0d80bf;
