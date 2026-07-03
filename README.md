@@ -100,7 +100,7 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 - [x] Layout com `flexbox`
 - [ ] Layout com `grid`
 - [ ] Responsividade (`media queries`)
-- [x] Animações ou transições
+- [ ] Animações ou transições
 
 ## ⚙️ JavaScript
 
