@@ -9,6 +9,7 @@ body{
     background-color: #303030;
     margin: 0;
     padding: 0;
+    padding-top: 120px;
 }
 h1{
     color: white;
@@ -25,9 +26,6 @@ h1{
     overflow:hidden;
     height: 300px;
     width: 500px ;
-}
-body{
-    padding-top: 120px;
 }
 .linha{
     display: flex;
