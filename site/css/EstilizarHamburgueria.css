@@ -258,4 +258,38 @@ img {
     line-height: 1.4;
 }
 
+/* Corrige cards na versão para computador em telas pequenas */
+@media (max-width: 600px) {
+    .linha {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin: 10px 0;
+        padding: 10px;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 500px;
+        height: auto;
+        min-height: 300px;
+        overflow: visible;
+    }
+
+    .card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .card h3,
+    .card p,
+    .card span {
+        white-space: normal;
+        overflow-wrap: break-word;
+    }
+}
+
+
 
