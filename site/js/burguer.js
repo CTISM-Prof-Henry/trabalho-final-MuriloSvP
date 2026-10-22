@@ -5,5 +5,3 @@ function topo() {
         behavior: "smooth"
     });
 }
-
-
