@@ -219,3 +219,43 @@ img {
     }
 }
 
+/* Evita cortar o texto e o preço dos produtos */
+.card {
+    height: auto;
+    min-height: 300px;
+    overflow: hidden;
+    padding-bottom: 12px;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card h3,
+.card p,
+.card span {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    white-space: normal;
+}
+
+.card h3 {
+    line-height: 1.3;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+
+.card p {
+    line-height: 1.4;
+    margin-bottom: 8px;
+}
+
+.card span {
+    display: inline-block;
+    line-height: 1.4;
+}
+
+
